@@ -12,26 +12,7 @@ A sentiment classification pipeline with a fine-tuned transformer (DistilBERT) a
 - CLI interface with interactive clarification on low-confidence predictions
 - Structured logging under `logs/pipeline.log`
 - Confidence curve and fallback frequency tracking with CLI and matplotlib visualization
-
----
-
-## Folder Structure
-
-.
-├── logs/
-│ └── pipeline.log
-├── my_distilbert_imdb_model/
-├── nodes/
-│ ├── inference_node.py
-│ ├── confidence_check_node.py
-│ └── fallback_node.py
-├── pipeline.py
-├── requirements.txt
-├── README.md
-├── training.ipynb
-├── results/
-
-
+  
 ---
 
 ## Setup
@@ -81,47 +62,11 @@ See `training.ipynb` for full training and export process on IMDB dataset.
 
 ## Demo Video
 
-Included as `demo_video.mp4` or linked in `demo_link.txt`, demonstrating CLI workflow, fallback logic, and visualizations.
-
----
-
-## Contact
-
-For questions or issues, please open an issue or email your.email@example.com
-
-Follow prompts to enter reviews or type `exit` to quit and view confidence and fallback stats.
-
----
-
-## Fallback Details
-
-- Confidence below 0.7 triggers fallback
-- Backup zero-shot classifier suggests a label
-- User can confirm or clarify to provide final label
-
----
-
-## Logging and Visualization
-
-- Logs saved in `logs/pipeline.log`
-- On exit, textual confidence scores and fallback counts shown
-- Optional matplotlib charts display confidence curve and fallback frequency if matplotlib is installed
-
----
-
-## Model Fine-Tuning
-
-See `training.ipynb` for full training and export process on IMDB dataset.
-
----
-
-## Demo Video
-
-Included as `demo_video.mp4` or linked in `demo_link.txt`, demonstrating CLI workflow, fallback logic, and visualizations.
-
+Demo video is atached for reference, pls refer to it. 
 ---
 
 ## Contact
 
 Feel free to reach out to me in case of any queries or feedback at: 
 work.swatisingh12@gmail.com
+
