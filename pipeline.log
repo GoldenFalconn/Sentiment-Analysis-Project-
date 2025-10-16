@@ -1,0 +1,154 @@
+2025-10-16 02:31:11,055 | INFO | User Input: The storyline was fantastic and that plot left everyone speechless, too good!
+2025-10-16 02:31:11,243 | INFO | Inference | Input: 'The storyline was fantastic and that plot left everyone speechless, too good!' | Prediction: 1 | Confidence: 0.70
+2025-10-16 02:31:11,243 | INFO | Confidence Check | Confidence: 0.70 | Fallback: True
+2025-10-16 02:31:19,474 | INFO | Fallback | User Clarification: positive | Final Label: 1
+2025-10-16 02:31:19,489 | INFO | Output | Predicted Label: Positive | Confidence: 0.70
+2025-10-16 02:31:19,489 | INFO | Output | Final Label: Positive
+2025-10-16 02:33:00,703 | INFO | User Input: Despite its title, you can’t find a more controlled film.
+2025-10-16 02:33:01,341 | INFO | Inference | Input: 'Despite its title, you can’t find a more controlled film.' | Prediction: 0 | Confidence: 0.85
+2025-10-16 02:33:01,341 | INFO | Confidence Check | Confidence: 0.85 | Fallback: False
+2025-10-16 02:33:01,341 | INFO | Output | Predicted Label: Negative | Confidence: 0.85
+2025-10-16 02:34:41,431 | INFO | User Input: Despite its title, you can’t find a more controlled film.
+2025-10-16 02:34:41,567 | INFO | Inference | Input: 'Despite its title, you can’t find a more controlled film.' | Prediction: 0 | Confidence: 0.85
+2025-10-16 02:34:41,567 | INFO | Confidence Check | Confidence: 0.85 | Fallback: False
+2025-10-16 02:34:41,567 | INFO | Output | Predicted Label: Negative | Confidence: 0.85
+2025-10-16 02:34:43,032 | INFO | User Input:  the film could not be better cast, and the performances are extraordinary
+2025-10-16 02:34:43,187 | INFO | Inference | Input: ' the film could not be better cast, and the performances are extraordinary' | Prediction: 1 | Confidence: 1.00
+2025-10-16 02:34:43,187 | INFO | Confidence Check | Confidence: 1.00 | Fallback: False
+2025-10-16 02:34:43,187 | INFO | Output | Predicted Label: Positive | Confidence: 1.00
+2025-10-16 02:35:22,505 | INFO | User Input: One of the other reviewers has mentioned that after watching just 1 Oz episode you'll be hooked. They are right, as this is exactly what happened with me.<br /><br />The first thing that struck me about Oz was its brutality and unflinching scenes of violence, which set in right from the word GO. Trust me, this is not a show for the faint hearted or timid. This show pulls no punches with regards to drugs, sex or violence. Its is hardcore, in the classic use of the word.<br /><br />It is called OZ as that is the nickname given to the Oswald Maximum Security State Penitentary. It focuses mainly on Emerald City, an experimental section of the prison where all the cells have glass fronts and face inwards, so privacy is not high on the agenda. Em City is home to many..Aryans, Muslims, gangstas, Latinos, Christians, Italians, Irish and more....so scuffles, death stares, dodgy dealings and shady agreements are never far away.<br /><br />I would say the main appeal of the show is due to the fact that it goes where other shows wouldn't dare. Forget pretty pictures painted for mainstream audiences, forget charm, forget romance...OZ doesn't mess around. The first episode I ever saw struck me as so nasty it was surreal, I couldn't say I was ready for it, but as I watched more, I developed a taste for Oz, and got accustomed to the high levels of graphic violence. Not just violence, but injustice (crooked guards who'll be sold out for a nickel, inmates who'll kill on order and get away with it, well mannered, middle class inmates being turned into prison bitches due to their lack of street skills or prison experience) Watching Oz, you may become comfortable with what is uncomfortable viewing....thats if you can get in touch with your darker side.
+2025-10-16 02:35:22,664 | INFO | Inference | Input: 'One of the other reviewers has mentioned that after watching just 1 Oz episode you'll be hooked. They are right, as this is exactly what happened with me.<br /><br />The first thing that struck me about Oz was its brutality and unflinching scenes of violence, which set in right from the word GO. Trust me, this is not a show for the faint hearted or timid. This show pulls no punches with regards to drugs, sex or violence. Its is hardcore, in the classic use of the word.<br /><br />It is called OZ as that is the nickname given to the Oswald Maximum Security State Penitentary. It focuses mainly on Emerald City, an experimental section of the prison where all the cells have glass fronts and face inwards, so privacy is not high on the agenda. Em City is home to many..Aryans, Muslims, gangstas, Latinos, Christians, Italians, Irish and more....so scuffles, death stares, dodgy dealings and shady agreements are never far away.<br /><br />I would say the main appeal of the show is due to the fact that it goes where other shows wouldn't dare. Forget pretty pictures painted for mainstream audiences, forget charm, forget romance...OZ doesn't mess around. The first episode I ever saw struck me as so nasty it was surreal, I couldn't say I was ready for it, but as I watched more, I developed a taste for Oz, and got accustomed to the high levels of graphic violence. Not just violence, but injustice (crooked guards who'll be sold out for a nickel, inmates who'll kill on order and get away with it, well mannered, middle class inmates being turned into prison bitches due to their lack of street skills or prison experience) Watching Oz, you may become comfortable with what is uncomfortable viewing....thats if you can get in touch with your darker side.' | Prediction: 1 | Confidence: 0.99
+2025-10-16 02:35:22,666 | INFO | Confidence Check | Confidence: 0.99 | Fallback: False
+2025-10-16 02:35:22,668 | INFO | Output | Predicted Label: Positive | Confidence: 0.99
+2025-10-16 02:35:39,928 | INFO | User Input: How this film could be classified as Drama, I have no idea. If I were John Voight and Mary Steenburgen, I would be trying to erase this from my CV. It was as historically accurate as Xena and Hercules. Abraham and Moses got melded into Noah. Lot, Abraham's nephew, Lot, turns up thousands of years before he would have been born. Canaanites wandered the earth...really? What were the scriptwriters thinking? Was it just ignorance ("I remember something about Noah and animals, and Lot and Canaanites and all that stuff from Sunday School") or were they trying to offend the maximum number of people on the planet as possible- from Christians, Jews and Muslims, to historians, archaeologists, geologists, psychologists, linguists ...as a matter of fact, did anyone not get offended? Anyone who had even a modicum of taste would have winced at this one!
+2025-10-16 02:35:40,078 | INFO | Inference | Input: 'How this film could be classified as Drama, I have no idea. If I were John Voight and Mary Steenburgen, I would be trying to erase this from my CV. It was as historically accurate as Xena and Hercules. Abraham and Moses got melded into Noah. Lot, Abraham's nephew, Lot, turns up thousands of years before he would have been born. Canaanites wandered the earth...really? What were the scriptwriters thinking? Was it just ignorance ("I remember something about Noah and animals, and Lot and Canaanites and all that stuff from Sunday School") or were they trying to offend the maximum number of people on the planet as possible- from Christians, Jews and Muslims, to historians, archaeologists, geologists, psychologists, linguists ...as a matter of fact, did anyone not get offended? Anyone who had even a modicum of taste would have winced at this one!' | Prediction: 0 | Confidence: 0.96
+2025-10-16 02:35:40,078 | INFO | Confidence Check | Confidence: 0.96 | Fallback: False
+2025-10-16 02:35:40,078 | INFO | Output | Predicted Label: Negative | Confidence: 0.96
+2025-10-16 02:36:20,328 | INFO | User Input: The movie was okay till the first half, before the entry of the villian, after thaat it was so predictable and boring
+2025-10-16 02:36:20,486 | INFO | Inference | Input: 'The movie was okay till the first half, before the entry of the villian, after thaat it was so predictable and boring' | Prediction: 0 | Confidence: 1.00
+2025-10-16 02:36:20,486 | INFO | Confidence Check | Confidence: 1.00 | Fallback: False
+2025-10-16 02:36:20,486 | INFO | Output | Predicted Label: Negative | Confidence: 1.00
+2025-10-16 02:36:30,610 | INFO | User Input: One of the other reviewers has mentioned that after watching just 1 Oz episode you'll be hooked. They are right, as this is exactly what happened with me.<br /><br />The first thing that struck me about Oz was its brutality and unflinching scenes of violence, which set in right from the word GO. Trust me, this is not a show for the faint hearted or timid. This show pulls no punches with regards to drugs, sex or violence. Its is hardcore, in the classic use of the word.<br /><br />It is called OZ as that is the nickname given to the Oswald Maximum Security State Penitentary. It focuses mainly on Emerald City, an experimental section of the prison where all the cells have glass fronts and face inwards, so privacy is not high on the agenda. Em City is home to many..Aryans, Muslims, gangstas, Latinos, Christians, Italians, Irish and more....so scuffles, death stares, dodgy dealings and shady agreements are never far away.<br /><br />I would say the main appeal of the show is due to the fact that it goes where other shows wouldn't dare. Forget pretty pictures painted for mainstream audiences, forget charm, forget romance...OZ doesn't mess around. The first episode I ever saw struck me as so nasty it was surreal, I couldn't say I was ready for it, but as I watched more, I developed a taste for Oz, and got accustomed to the high levels of graphic violence. Not just violence, but injustice (crooked guards who'll be sold out for a nickel, inmates who'll kill on order and get away with it, well mannered, middle class inmates being turned into prison bitches due to their lack of street skills or prison experience) Watching Oz, you may become comfortable with what is uncomfortable viewing....thats if you can get in touch with your darker side.
+2025-10-16 02:36:30,758 | INFO | Inference | Input: 'One of the other reviewers has mentioned that after watching just 1 Oz episode you'll be hooked. They are right, as this is exactly what happened with me.<br /><br />The first thing that struck me about Oz was its brutality and unflinching scenes of violence, which set in right from the word GO. Trust me, this is not a show for the faint hearted or timid. This show pulls no punches with regards to drugs, sex or violence. Its is hardcore, in the classic use of the word.<br /><br />It is called OZ as that is the nickname given to the Oswald Maximum Security State Penitentary. It focuses mainly on Emerald City, an experimental section of the prison where all the cells have glass fronts and face inwards, so privacy is not high on the agenda. Em City is home to many..Aryans, Muslims, gangstas, Latinos, Christians, Italians, Irish and more....so scuffles, death stares, dodgy dealings and shady agreements are never far away.<br /><br />I would say the main appeal of the show is due to the fact that it goes where other shows wouldn't dare. Forget pretty pictures painted for mainstream audiences, forget charm, forget romance...OZ doesn't mess around. The first episode I ever saw struck me as so nasty it was surreal, I couldn't say I was ready for it, but as I watched more, I developed a taste for Oz, and got accustomed to the high levels of graphic violence. Not just violence, but injustice (crooked guards who'll be sold out for a nickel, inmates who'll kill on order and get away with it, well mannered, middle class inmates being turned into prison bitches due to their lack of street skills or prison experience) Watching Oz, you may become comfortable with what is uncomfortable viewing....thats if you can get in touch with your darker side.' | Prediction: 1 | Confidence: 0.99
+2025-10-16 02:36:30,758 | INFO | Confidence Check | Confidence: 0.99 | Fallback: False
+2025-10-16 02:36:30,758 | INFO | Output | Predicted Label: Positive | Confidence: 0.99
+2025-10-16 02:36:33,207 | INFO | User Input: Despite its title, you can’t find a more controlled film.
+2025-10-16 02:36:33,348 | INFO | Inference | Input: 'Despite its title, you can’t find a more controlled film.' | Prediction: 0 | Confidence: 0.85
+2025-10-16 02:36:33,348 | INFO | Confidence Check | Confidence: 0.85 | Fallback: False
+2025-10-16 02:36:33,348 | INFO | Output | Predicted Label: Negative | Confidence: 0.85
+2025-10-16 02:36:52,315 | INFO | User Input: Good movie for one-time watch.
+2025-10-16 02:36:52,448 | INFO | Inference | Input: 'Good movie for one-time watch.' | Prediction: 1 | Confidence: 0.98
+2025-10-16 02:36:52,448 | INFO | Confidence Check | Confidence: 0.98 | Fallback: False
+2025-10-16 02:36:52,448 | INFO | Output | Predicted Label: Positive | Confidence: 0.98
+2025-10-16 02:47:55,839 | WARNING | Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-16 21:39:34,651 | WARNING | Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-17 00:11:22,213 | INFO | User Input: The movie was good but the second part was boring.
+2025-10-17 00:11:22,980 | INFO | Inference | Input: 'The movie was good but the second part was boring.' | Prediction: 0 | Confidence: 0.99
+2025-10-17 00:11:22,982 | INFO | Confidence Check | Confidence: 0.99 | Fallback: False
+2025-10-17 00:11:22,983 | INFO | Output | Predicted Label: Negative | Confidence: 0.99
+2025-10-17 00:12:13,310 | INFO | User Input: the movie was really bad. very bad acting done by the actors.
+2025-10-17 00:12:13,463 | INFO | Inference | Input: 'the movie was really bad. very bad acting done by the actors.' | Prediction: 0 | Confidence: 1.00
+2025-10-17 00:12:13,463 | INFO | Confidence Check | Confidence: 1.00 | Fallback: False
+2025-10-17 00:12:13,463 | INFO | Output | Predicted Label: Negative | Confidence: 1.00
+2025-10-17 00:22:41,805 | INFO | User Input: It was different from what I expected, hard to say if it was positive or negative.
+2025-10-17 00:22:42,194 | INFO | Inference | Input: 'It was different from what I expected, hard to say if it was positive or negative.' | Prediction: 1 | Confidence: 0.64
+2025-10-17 00:22:42,194 | INFO | Confidence Check | Confidence: 0.64 | Fallback: True
+2025-10-17 00:22:51,980 | INFO | Fallback | User Clarification: negative
+2025-10-17 00:22:51,980 | INFO | Output | Predicted Label: Positive | Confidence: 0.64
+2025-10-17 00:22:51,980 | INFO | Output | Final Label: Negative
+2025-10-17 00:25:37,013 | INFO | User Input: Good acting but something just felt off about the whole film.Good acting but something just felt off about the whole film.
+2025-10-17 00:25:37,175 | INFO | Inference | Input: 'Good acting but something just felt off about the whole film.Good acting but something just felt off about the whole film.' | Prediction: 0 | Confidence: 0.83
+2025-10-17 00:25:37,175 | INFO | Confidence Check | Confidence: 0.83 | Fallback: False
+2025-10-17 00:25:37,175 | INFO | Output | Predicted Label: Negative | Confidence: 0.83
+2025-10-17 00:25:46,824 | INFO | User Input: Good acting but something just felt off about the whole film.
+2025-10-17 00:25:46,985 | INFO | Inference | Input: 'Good acting but something just felt off about the whole film.' | Prediction: 0 | Confidence: 0.92
+2025-10-17 00:25:46,985 | INFO | Confidence Check | Confidence: 0.92 | Fallback: False
+2025-10-17 00:25:46,985 | INFO | Output | Predicted Label: Negative | Confidence: 0.92
+2025-10-17 00:26:04,082 | INFO | User Input: It started slow but picked up towards the end, still not sure what to think.
+2025-10-17 00:26:04,233 | INFO | Inference | Input: 'It started slow but picked up towards the end, still not sure what to think.' | Prediction: 0 | Confidence: 0.96
+2025-10-17 00:26:04,233 | INFO | Confidence Check | Confidence: 0.96 | Fallback: False
+2025-10-17 00:26:04,233 | INFO | Output | Predicted Label: Negative | Confidence: 0.96
+2025-10-17 00:29:29,575 | INFO | User Input: negative
+2025-10-17 00:29:29,759 | INFO | Inference | Input: 'negative' | Prediction: 0 | Confidence: 0.76
+2025-10-17 00:29:29,759 | INFO | Confidence Check | Confidence: 0.76 | Fallback: False
+2025-10-17 00:29:29,759 | INFO | Output | Predicted Label: Negative | Confidence: 0.76
+2025-10-17 00:29:32,299 | INFO | User Input: It was different from what I expected, hard to say if it was positive or negative.
+2025-10-17 00:29:32,448 | INFO | Inference | Input: 'It was different from what I expected, hard to say if it was positive or negative.' | Prediction: 1 | Confidence: 0.64
+2025-10-17 00:29:32,448 | INFO | Confidence Check | Confidence: 0.64 | Fallback: True
+2025-10-17 00:29:38,688 | INFO | Fallback | User Clarification: positive
+2025-10-17 00:29:38,689 | INFO | Output | Predicted Label: Positive | Confidence: 0.64
+2025-10-17 00:29:38,689 | INFO | Output | Final Label: Positive
+2025-10-17 00:35:50,849 | INFO | User Input: It started slow but picked up towards the end, still not sure what to think.
+2025-10-17 00:35:51,002 | INFO | Inference | Input: 'It started slow but picked up towards the end, still not sure what to think.' | Prediction: 0 | Confidence: 0.96
+2025-10-17 00:35:51,002 | INFO | Confidence Check | Confidence: 0.96 | Fallback: False
+2025-10-17 00:35:51,002 | INFO | Output | Predicted Label: Negative | Confidence: 0.96
+2025-10-17 01:45:50,483 | INFO | [Inference] Input='' | Pred=1 | Conf=0.56
+2025-10-17 01:45:50,485 | INFO | [ConfidenceCheck] Score=0.56 | Fallback=True
+2025-10-17 01:46:20,633 | INFO | [Inference] Input='the movie was boring i dont know if i liked it or not' | Pred=0 | Conf=0.99
+2025-10-17 01:46:20,635 | INFO | [ConfidenceCheck] Score=0.99 | Fallback=False
+2025-10-17 01:46:20,636 | INFO | [RESULT] Input: the movie was boring i dont know if i liked it or not | Final label: 0
+2025-10-17 01:46:38,031 | INFO | [Inference] Input='i really am confused if the movie was good or bad' | Pred=0 | Conf=0.98
+2025-10-17 01:46:38,032 | INFO | [ConfidenceCheck] Score=0.98 | Fallback=False
+2025-10-17 01:46:38,032 | INFO | [RESULT] Input: i really am confused if the movie was good or bad | Final label: 0
+2025-10-17 01:46:47,080 | INFO | [Inference] Input='It started slow but picked up towards the end, still not sure what to think.' | Pred=0 | Conf=0.96
+2025-10-17 01:46:47,081 | INFO | [ConfidenceCheck] Score=0.96 | Fallback=False
+2025-10-17 01:46:47,081 | INFO | [RESULT] Input: It started slow but picked up towards the end, still not sure what to think. | Final label: 0
+2025-10-17 01:46:50,907 | INFO | [Inference] Input='It was different from what I expected, hard to say if it was positive or negative.' | Pred=1 | Conf=0.64
+2025-10-17 01:46:50,907 | INFO | [ConfidenceCheck] Score=0.64 | Fallback=True
+2025-10-17 01:50:45,743 | INFO | [Inference] Input='it was different from what i had expected, hard to tell if it was positive or negative,' | Pred=1 | Conf=0.78
+2025-10-17 01:50:45,744 | INFO | [ConfidenceCheck] Score=0.78 | Fallback=False
+2025-10-17 01:50:45,744 | INFO | [RESULT] Input: it was different from what i had expected, hard to tell if it was positive or negative, | Final label: 1
+2025-10-17 01:50:57,916 | INFO | [Inference] Input='it was different from what i had expected, hard to tell if it was positive or negative.' | Pred=1 | Conf=0.74
+2025-10-17 01:50:57,917 | INFO | [ConfidenceCheck] Score=0.74 | Fallback=False
+2025-10-17 01:50:57,918 | INFO | [RESULT] Input: it was different from what i had expected, hard to tell if it was positive or negative. | Final label: 1
+2025-10-17 01:51:17,083 | INFO | [Inference] Input='Not expected this, hard to tell if i liked it or not.' | Pred=1 | Conf=0.51
+2025-10-17 01:51:17,084 | INFO | [ConfidenceCheck] Score=0.51 | Fallback=True
+2025-10-17 01:51:35,131 | INFO | [Fallback] Kept backup model label 0 with conf 0.7870286107063293
+2025-10-17 01:51:35,134 | INFO | [RESULT] Input: Not expected this, hard to tell if i liked it or not. | Final label: 0
+2025-10-17 01:58:21,620 | INFO | [Inference] Input='the movie was fabulous' | Pred=1 | Conf=0.99
+2025-10-17 01:58:21,621 | INFO | [ConfidenceCheck] Score=0.99 | Fallback=False
+2025-10-17 01:58:21,623 | INFO | [RESULT] Input: the movie was fabulous | Final label: 1
+2025-10-17 01:58:56,137 | INFO | [Inference] Input='the movie was difficult to understand, do not know if i liked i tor not' | Pred=0 | Conf=0.99
+2025-10-17 01:58:56,137 | INFO | [ConfidenceCheck] Score=0.99 | Fallback=False
+2025-10-17 01:58:56,138 | INFO | [RESULT] Input: the movie was difficult to understand, do not know if i liked i tor not | Final label: 0
+2025-10-17 01:59:22,353 | INFO | [Inference] Input='not expected this, still don't know if i liked the movie or not' | Pred=0 | Conf=0.90
+2025-10-17 01:59:22,353 | INFO | [ConfidenceCheck] Score=0.90 | Fallback=False
+2025-10-17 01:59:22,354 | INFO | [RESULT] Input: not expected this, still don't know if i liked the movie or not | Final label: 0
+2025-10-17 01:59:44,404 | INFO | [Inference] Input='Not expected this, hard to tell if i liked it or not' | Pred=1 | Conf=0.57
+2025-10-17 01:59:44,404 | INFO | [ConfidenceCheck] Score=0.57 | Fallback=True
+2025-10-17 02:00:24,840 | INFO | [Fallback] Kept backup model label 0 with conf 0.7946577668190002
+2025-10-17 02:00:24,841 | INFO | [RESULT] Input: Not expected this, hard to tell if i liked it or not | Final label: 0
+2025-10-17 02:04:09,497 | INFO | [Inference] Input='not expected this, hard to tell if I liked it or not,' | Pred=1 | Conf=0.62
+2025-10-17 02:04:09,498 | INFO | [ConfidenceCheck] Score=0.62 | Fallback=True
+2025-10-17 02:05:05,033 | INFO | [Fallback] Kept backup model label 0 with conf 0.8828720450401306
+2025-10-17 02:05:05,039 | INFO | [RESULT] Input: not expected this, hard to tell if I liked it or not, | Final label: 0
+2025-10-17 02:05:16,322 | INFO | [Inference] Input='good movie, enjoyed watching it' | Pred=1 | Conf=0.99
+2025-10-17 02:05:16,323 | INFO | [ConfidenceCheck] Score=0.99 | Fallback=False
+2025-10-17 02:05:16,323 | INFO | [RESULT] Input: good movie, enjoyed watching it | Final label: 1
+2025-10-17 02:05:29,187 | INFO | [Inference] Input='bad movie, bad cast , poor storyline' | Pred=0 | Conf=1.00
+2025-10-17 02:05:29,188 | INFO | [ConfidenceCheck] Score=1.00 | Fallback=False
+2025-10-17 02:05:29,188 | INFO | [RESULT] Input: bad movie, bad cast , poor storyline | Final label: 0
+2025-10-17 02:10:15,348 | INFO | [Inference] Input='Not expected this, hard to tell if I liked it or not.' | Pred=1 | Conf=0.51
+2025-10-17 02:10:15,349 | INFO | [ConfidenceCheck] Score=0.51 | Fallback=True
+2025-10-17 02:10:31,616 | INFO | [Fallback] Kept backup model label 0 with conf 0.8281869292259216
+2025-10-17 02:10:31,617 | INFO | [RESULT] Input: Not expected this, hard to tell if I liked it or not. | Final label: 0
+2025-10-17 02:10:45,697 | INFO | [Inference] Input='good movie, great storyline.' | Pred=1 | Conf=0.99
+2025-10-17 02:10:45,698 | INFO | [ConfidenceCheck] Score=0.99 | Fallback=False
+2025-10-17 02:10:45,698 | INFO | [RESULT] Input: good movie, great storyline. | Final label: 1
+2025-10-17 02:20:55,681 | INFO | [Inference] Input='Good movie, great storyline.' | Pred=1 | Conf=0.99
+2025-10-17 02:20:55,682 | INFO | [ConfidenceCheck] Score=0.99 | Fallback=False
+2025-10-17 02:20:55,683 | INFO | [RESULT] Input: Good movie, great storyline. | Final label: 1
+2025-10-17 02:21:30,784 | INFO | [Inference] Input='Not expected this, hard to tell if I liked it or not.' | Pred=1 | Conf=0.51
+2025-10-17 02:21:30,785 | INFO | [ConfidenceCheck] Score=0.51 | Fallback=True
+2025-10-17 02:22:12,497 | INFO | [Fallback] Kept backup model label 0 with conf 0.8281869292259216
+2025-10-17 02:22:12,498 | INFO | [RESULT] Input: Not expected this, hard to tell if I liked it or not. | Final label: 0
+2025-10-17 02:28:57,115 | INFO | [Inference] Input='The movie was gfood, great storyline.' | Pred=1 | Conf=0.98
+2025-10-17 02:28:57,116 | INFO | [ConfidenceCheck] Score=0.98 | Fallback=False
+2025-10-17 02:28:57,116 | INFO | [RESULT] Input: The movie was gfood, great storyline. | Final label: 1
+2025-10-17 02:29:29,747 | INFO | [Inference] Input='Not expected this, hard to tell if I liked it or not.' | Pred=1 | Conf=0.51
+2025-10-17 02:29:29,747 | INFO | [ConfidenceCheck] Score=0.51 | Fallback=True
+2025-10-17 02:29:38,335 | INFO | [Fallback] Kept backup model label 0 with conf 0.8281869292259216
+2025-10-17 02:29:38,335 | INFO | [RESULT] Input: Not expected this, hard to tell if I liked it or not. | Final label: 0
+2025-10-17 02:30:24,862 | INFO | [Inference] Input='bad movie.' | Pred=0 | Conf=1.00
+2025-10-17 02:30:24,862 | INFO | [ConfidenceCheck] Score=1.00 | Fallback=False
+2025-10-17 02:30:24,863 | INFO | [RESULT] Input: bad movie. | Final label: 0
